@@ -8,7 +8,7 @@
             "driver": "PostgreSQL",
             "name": "postgres1",
             "username": "postgres",
-            "database": "sales_example"
+            "database": "relations"
         },
         {
             "mysqlOptions": {
@@ -20,7 +20,7 @@
             "askForPassword": true,
             "driver": "MySQL",
             "name": "mysql1",
-            "database": "sales_example",
+            "database": "relations",
             "username": "root"
         }
     ]
